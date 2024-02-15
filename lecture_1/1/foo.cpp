@@ -1,0 +1,4 @@
+// definition
+void foo() {
+    // bar();
+}
